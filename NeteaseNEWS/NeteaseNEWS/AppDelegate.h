@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  NetEasyNews
+//  NeteaseNEWS
 //
 //  Created by 星星 on 16/1/19.
 //  Copyright © 2016年 星星. All rights reserved.

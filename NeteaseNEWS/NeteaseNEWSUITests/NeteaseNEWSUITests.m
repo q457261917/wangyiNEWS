@@ -1,6 +1,6 @@
 //
-//  NetEasyNewsUITests.m
-//  NetEasyNewsUITests
+//  NeteaseNEWSUITests.m
+//  NeteaseNEWSUITests
 //
 //  Created by 星星 on 16/1/19.
 //  Copyright © 2016年 星星. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface NetEasyNewsUITests : XCTestCase
+@interface NeteaseNEWSUITests : XCTestCase
 
 @end
 
-@implementation NetEasyNewsUITests
+@implementation NeteaseNEWSUITests
 
 - (void)setUp {
     [super setUp];
